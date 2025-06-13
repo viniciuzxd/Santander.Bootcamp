@@ -1,6 +1,3 @@
-# Santander.Bootcamp
-Santander 2025 - Back-End com Java
-
 # Bootcamp Santander - Estudos Java
 
 Este repositório contém exercícios e práticas desenvolvidas durante o Bootcamp Santander, focando em conceitos básicos de Java.
