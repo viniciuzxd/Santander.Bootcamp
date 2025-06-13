@@ -13,8 +13,7 @@ public class Aula03 {
 
         double area = base * altura;
 
-        System.out.printf("O valor da area é de: ", area);
-
+        System.out.printf("O valor da area é de: %s", area);
 
     }
 }
