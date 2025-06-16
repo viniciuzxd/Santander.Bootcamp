@@ -1,4 +1,4 @@
-package Aulas;
+package aSintaxeBasica;
 
 import java.util.Scanner;
 
